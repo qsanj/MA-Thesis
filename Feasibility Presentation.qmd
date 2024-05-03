@@ -1,23 +1,81 @@
 ---
-title: '<font size=12>Confidence in Government and Media Framing: Case of Kazakhstan</font>'
+title: '<font size=12>Confidence in Government and Media Framing: Kazakhstani context</font>'
 subtitle: '<small>Feasibility Presentation</small>'
 author: "Sanzhar Kalkanbay <br>1<sup>st</sup> Advisor: Dr. Hoyoun Koh <br>2<sup>nd</sup> Advisor: Dr. Berikbol Dukeyev"
 format: revealjs
 editor: visual
+bibliography: ref.bib
+csl: american-political-science-association.csl
 ---
 
 ## Background
 
-Public trust is one of the main pillars for a function and stability of the regime. The role of the stat
+-   Public trust is one of the main pillars for a function and stability of the regime.
 
-Spread of information in Kazakhstan is, at the very least, actively monitored by the state. Media that is not directly controlled by the state, at the very least, do not encroach on the state's general agenda . There is a general political polarization amongst consumers of news (an example of polarization shown in Arceneaux, Johnson, and Murphy, 2012), divided alongside  the opposition media (Vlast.kz) and government / neutral media (Tengri News and KazInform). The readers, then, are often unexposed to media framings of each information groups. This forms their opinions and trust regarding poltiical institutions.
-
-From this, a question forms: What happens when the people are exposed to differing media frames? 
+-   Public trust to government-related insitutions is influenced through communication: with other citizens, through personal experiences with the government institutions, and through **consumption of media**.
 
 ## Puzzle
 
-Spread of information in Kazakhstan is, at the very least, actively monitored by the state. How does the statefie 
+Spread of information in Kazakhstan is, at the least, actively monitored by the state. Media that is not directly controlled by the state, do not encroach on the state's general agenda. A general political polarization amongst consumers of news [one example in @Arceneaux2012], divided alongside the opposition media (Vlast.kz) and government / neutral media (Tengri News and KazInform). The readers, then, are often unexposed to media framings of each information groups. This forms their opinions and trust for political institutions.
 
-## Research Question 
+## Puzzle
 
-## Literature Review
+::: {layout-ncol="2"}
+![](Vlast%20Bishimbayev.png){width="95%"}
+
+![](Informburo%20Bishimbayev.png){width="75%"}
+:::
+
+## Research Questions
+
+How does framing in Kazakhstani online media influence confidence on political institutions in Kazakhstan? Are Kazakh language online media relevant in shaping confidence in political institutions?
+
+From this, a question forms: What happens when the people are exposed to differing media frames?
+
+## Media and framing in authoritarian contexts
+
+Control of the media in Kazakhstani context is widespread:
+
+-   TV, paper [@Junisbai2015] and internet [@Beisembayeva2013]
+
+Selective exposure to government or independent media exists in authoritarian countries [@Szostek2018; @Wojcieszak2019].
+
+Government narratives, however, are still being consumed even in individuals with selective exposure.
+
+## Media and framing in authoritarian contexts
+
+@Xu2013: Source characteristics, including credibility and reception by the audience, influence how framing affects audiences. Particularly relevant in the online media sphere
+
+## Theory
+
+@Floss2008 proposes relational framework for evaluating media frames' influence on confidence in political institutions.
+
+![](Theory.png)
+
+## Hypotheses
+
+::: {style="font-size: 80%;"}
+
+-   H1: The framing of political institutions in Kazakh-language online media significantly influences confidence levels in those institutions among the Kazakhstani population.
+    -   H1.1: Baseline political expectations will moderate the relationship between media framing and confidence in political institutions.
+    -   H1.2: Higher alignment between baseline political expectation and media frames will result in higher confidence in political institutions.
+-   H2: Kazakh and Russian language online media will have different effects on confidence in political institutions.
+    -   H2.1: Perceived credibility of Russian language online media will be higher.
+
+:::
+
+## Methodology
+
+* A mixed methods apporach
+
+Systematic analysis of framing strategies in prominent Kazakh and Russian language online media from 2019 to 2024 using NVivo. Focus on frame characteristics such as tone, emphasis, and narrative perspectives.
+
+Online survey gathering demographic data and assessing participants' exposure to Kazakh and Russian language media content on political institutions. Participants exposed to randomized news stimuli varying in framing, then asked to evaluate confidence in specified political institutions.
+
+## Q&A
+
+Any questions?
+
+Is it relevant to look at the differences between languages of the media?
+
+## References
