@@ -1,0 +1,23 @@
+---
+title: '<font size=12>Confidence in Government and Media Framing: Case of Kazakhstan</font>'
+subtitle: '<small>Feasibility Presentation</small>'
+author: "Sanzhar Kalkanbay <br>1<sup>st</sup> Advisor: Dr. Hoyoun Koh <br>2<sup>nd</sup> Advisor: Dr. Berikbol Dukeyev"
+format: revealjs
+editor: visual
+---
+
+## Background
+
+Public trust is one of the main pillars for a function and stability of the regime. The role of the stat
+
+Spread of information in Kazakhstan is, at the very least, actively monitored by the state. Media that is not directly controlled by the state, at the very least, do not encroach on the state's general agenda . There is a general political polarization amongst consumers of news (an example of polarization shown in Arceneaux, Johnson, and Murphy, 2012), divided alongside  the opposition media (Vlast.kz) and government / neutral media (Tengri News and KazInform). The readers, then, are often unexposed to media framings of each information groups. This forms their opinions and trust regarding poltiical institutions.
+
+From this, a question forms: What happens when the people are exposed to differing media frames? 
+
+## Puzzle
+
+Spread of information in Kazakhstan is, at the very least, actively monitored by the state. How does the statefie 
+
+## Research Question 
+
+## Literature Review
